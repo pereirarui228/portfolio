@@ -6,6 +6,7 @@ Gosto de fazer páginas simples de usar, rápidas de abrir no telemóvel e pensa
 
 ## Projetos
 
+- **Midiatel — Ligados ao Futuro** — site institucional e catálogo demonstrativo para loja e serviços informáticos, com carrinho, busca e orçamento por WhatsApp.
 - **Bom Bom Lodge** — apresentação de quartos, galeria e pedido de disponibilidade.
 - **Loja Central Riboke** — catálogo de roupa com carrinho guardado no navegador e encomenda por WhatsApp.
 - **São Tomé Tours** — passeios, informações para visitantes e contacto para reservas.
@@ -15,7 +16,7 @@ As demonstrações estão disponíveis nos ficheiros HTML deste repositório. Pa
 
 ## Como os sites funcionam
 
-As páginas são feitas com HTML, CSS e JavaScript. São estáticas e não precisam de servidor de aplicação ou base de dados. Os contactos e pedidos são encaminhados pelo WhatsApp.
+As páginas são estáticas e não precisam de servidor de aplicação ou base de dados. Algumas demos usam HTML, CSS e JavaScript direto; a proposta Midiatel foi exportada de Next.js para funcionar dentro do portfólio. Os contactos e pedidos são encaminhados pelo WhatsApp.
 
 ## Contacto
 
